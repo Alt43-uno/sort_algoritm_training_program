@@ -1,0 +1,12 @@
+D:\Загрузки\SortAlgorithms-master\SortAlgorithms-master\Algorithm\bin\Debug\Algorithm.dll
+D:\Загрузки\SortAlgorithms-master\SortAlgorithms-master\Algorithm\bin\Debug\Algorithm.pdb
+D:\Загрузки\SortAlgorithms-master\SortAlgorithms-master\Algorithm\obj\Debug\Algorithm.csproj.AssemblyReference.cache
+D:\Загрузки\SortAlgorithms-master\SortAlgorithms-master\Algorithm\obj\Debug\Algorithm.csproj.CoreCompileInputs.cache
+D:\Загрузки\SortAlgorithms-master\SortAlgorithms-master\Algorithm\obj\Debug\Algorithm.dll
+D:\Загрузки\SortAlgorithms-master\SortAlgorithms-master\Algorithm\obj\Debug\Algorithm.pdb
+D:\csharplab5\Algorithm\bin\Debug\Algorithm.dll
+D:\csharplab5\Algorithm\bin\Debug\Algorithm.pdb
+D:\csharplab5\Algorithm\obj\Debug\Algorithm.csproj.AssemblyReference.cache
+D:\csharplab5\Algorithm\obj\Debug\Algorithm.csproj.CoreCompileInputs.cache
+D:\csharplab5\Algorithm\obj\Debug\Algorithm.dll
+D:\csharplab5\Algorithm\obj\Debug\Algorithm.pdb
